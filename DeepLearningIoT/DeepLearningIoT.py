@@ -88,4 +88,4 @@ if __name__ == "__main__":
     print(neural_network.synaptic_weights)
 
 
-	#test
+	#test 3
