@@ -86,3 +86,6 @@ if __name__ == "__main__":
 
     print("Synaptic weights after training: ")
     print(neural_network.synaptic_weights)
+
+
+	#test
